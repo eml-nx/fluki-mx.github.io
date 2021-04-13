@@ -50,13 +50,11 @@ about_content: | # this will include new lines to allow paragraphs
   ***Mexicano***, graduado como Ingeniero de Software desde el 2016 actualmente ejerciendo como <mark>Fullstack</mark> 
   en una startup que ofrece soluciones <mark>IoT</mark> e <mark>IA</mark>
 
-
-  Intereses profesionales: <mark>Blockchain 🌐 (BTC,ETH)</mark> <mark>Algoritmos Genéticos 🌱</mark> <mark>Container 🍱</mark>
-
-  Intereses personales: <mark>Aportar a mi país, mi alrededor 🇲🇽</mark> <mark>Experiencias Instropectivas 👁</mark> <mark>Cocina 🍴</mark> 
-
-  Otros hobbies/vicios: <mark>Videojuegos 🎮</mark> <mark>Fútbol ⚽</mark> <mark>Música 🎹</mark> <mark>Fumar/Tomar 🍻 (Ocasionalmente)</mark>
-
+  ~~~
+  **Intereses profesionales** <mark>Blockchain 🌐 (BTC,ETH)</mark> <mark>Algoritmos Genéticos 🌱</mark> <mark>Container 🍱</mark>
+  **Intereses personales** <mark>Aportar a mi país, mi alrededor 🇲🇽</mark> <mark>Experiencias Instropectivas 👁</mark> <mark>Cocina 🍴</mark> 
+  **Otros hobbies/vicios** <mark>Videojuegos 🎮</mark> <mark>Fútbol ⚽</mark> <mark>Música 🎹</mark> <mark>Fumar/Tomar 🍻 (Ocasionalmente)</mark>
+  ~~~
 
 content:
   # - title: Projects # Title for the section
