@@ -52,7 +52,9 @@ about_content: | # this will include new lines to allow paragraphs
 
   <pre>
   <b>Intereses profesionales</b> <mark>Blockchain 🌐 (BTC,ETH)</mark> <mark>Algoritmos Genéticos 🌱</mark> <mark>Container 🍱</mark>
+  <br />
   <b>Intereses personales</b> <mark>Aportar a mi país, mi alrededor 🇲🇽</mark> <mark>Experiencias Instropectivas 👁</mark> <mark>Cocina 🍴</mark> 
+  <br />
   <b>Otros hobbies/vicios</b> <mark>Videojuegos 🎮</mark> <mark>Fútbol ⚽</mark> <mark>Música 🎹</mark> <mark>Fumar/Tomar 🍻 (Ocasionalmente)</mark>
   </pre>
 
