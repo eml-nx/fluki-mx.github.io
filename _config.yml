@@ -52,20 +52,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   <pre>
   <b>Tecnologías/Actividades actuales</b><br />
-  <mark>Frontend 🖥 React</mark>
-  <mark>Móviles 📱 React-Native</mark>
-  <mark>Backend ⚙️ Python</mark>
-  <mark>Serverless 🤖</mark>
-  <mark>Docker 🐋</mark>
-  <mark>MQTT 📡</mark>
-  <mark>Websockets ⛓</mark>
-  <mark>Clouds ☁️ AWS, Azure </mark>
-  <mark>Deploy 🚦 </mark>
-  <mark>Git 🌳</mark>
-  <mark>Integración de Código 🧩 </mark>
-  <mark>Mapas 🗺 Mapbox</mark>
-  <mark>Visualización de Datos 📊 D3, Plotly</mark>
-  <mark>DBs 💾 MySQL, SQL Server, MongoDB</mark>
+  <mark><b>Frontend 🖥</b> React</mark> <mark><b>Móviles 📱</b> React-Native</mark> <mark><b>Backend ⚙️</b> Python</mark> <mark><b>Serverless 🤖</b></mark> <mark><b>Docker 🐋</b></mark> <mark><b>MQTT 📡</b></mark> <mark><b>Websockets ⛓</b></mark> <mark><b>Clouds ☁️</b> AWS, Azure </mark> <mark><b>Deploy 🚦</b> </mark> <mark><b>Git 🌳</b></mark> <mark><b>Integración de Código 🧩</b> </mark> <mark><b>Mapas 🗺</b> Mapbox</mark> <mark><b>Visualización de Datos 📊</b> D3, Plotly</mark> <mark><b>DBs 💾</b> MySQL, SQL Server, MongoDB</mark>
   </pre>
 
   <pre>
