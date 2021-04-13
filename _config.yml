@@ -9,7 +9,7 @@ version: 4
 name: Eduardo Muñoz López (1994-?)
 title: Ingeniero de Software
 email: hola@eml.run
-website: bio.eml.run
+# website: bio.eml.run
 
 # Dark Mode (true/false/never)
 darkmode: never
@@ -47,7 +47,7 @@ linkedin_username: eml9407
 about_title: Bio
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  ***Mexicano***, graduado como Ingeniero de Software desde el 2016 actualmente ejerciendo como <mark>Fullstack</mark> 
+  ***Mexicano***, graduado como Ingeniero de Software desde el 2016, actualmente ejerciendo como <mark>Fullstack</mark> 
   en una startup que ofrece soluciones <mark>IoT</mark> e <mark>IA</mark>
 
   <pre>
