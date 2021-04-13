@@ -51,6 +51,24 @@ about_content: | # this will include new lines to allow paragraphs
   en una startup que ofrece soluciones <mark>IoT</mark> e <mark>IA</mark>
 
   <pre>
+  <b>Tecnologías/Actividades actuales</b><br />
+  <mark>Frontend 🖥 React</mark>
+  <mark>Móviles 📱 React-Native</mark>
+  <mark>Backend ⚙️ Python</mark>
+  <mark>Serverless 🤖</mark>
+  <mark>Docker 🐋</mark>
+  <mark>MQTT 📡</mark>
+  <mark>Websockets ⛓</mark>
+  <mark>Clouds ☁️ AWS, Azure </mark>
+  <mark>Deploy 🚦 </mark>
+  <mark>Git 🌳</mark>
+  <mark>Integración de Código 🧩 </mark>
+  <mark>Mapas 🗺 Mapbox</mark>
+  <mark>Visualización de Datos 📊 D3, Plotly</mark>
+  <mark>DBs 💾 MySQL, SQL Server, MongoDB</mark>
+  </pre>
+
+  <pre>
   <b>Intereses profesionales</b><br /> <mark>Blockchain 🌐 (BTC,ETH)</mark> <mark>Algoritmos Genéticos 🌱</mark> <mark>Container 🍱</mark> <br />
   <b>Intereses personales</b><br /> <mark>Aportar a mi país, mi alrededor 🇲🇽</mark> <mark>Experiencias Instropectivas 👁</mark> <mark>Cocina 🍴</mark> <br />
   <b>Otros hobbies/vicios</b><br /> <mark>Videojuegos 🎮</mark> <mark>Fútbol ⚽</mark> <mark>Música 🎹</mark> <mark>Fumar/Tomar 🍻 (Ocasionalmente)</mark>
