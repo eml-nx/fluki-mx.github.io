@@ -39,9 +39,9 @@ linkedin_username: eml9407
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
+gtm: "GTM-P2BD97H"
+gtag: "UA-194580776-1"
+google_analytics: "UA-194580776-1"
 
 # About Section
 about_title: Bio
@@ -52,7 +52,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   <pre>
   <b>Tecnologías/Actividades actuales</b><br />
-  <mark><b>Frontend 🖥</b> React</mark> <mark><b>Móviles 📱</b> React-Native</mark> <mark><b>Backend ⚙️</b> Python</mark> <mark><b>Serverless 🤖</b></mark> <mark><b>Docker 🐋</b></mark> <mark><b>MQTT 📡</b></mark> <mark><b>Websockets ⛓</b></mark><br />
+  <mark><b>Frontend 🖥</b> React</mark> <mark><b>Móviles 📱</b> React-Native</mark> <mark><b>Backend ⚙</b> Python</mark> <mark><b>Serverless 🤖</b></mark> <mark><b>Docker 🐋</b></mark> <mark><b>MQTT 📡</b></mark> <mark><b>Websockets ⛓</b></mark><br />
   <mark><b>Clouds ☁️</b> AWS, Azure </mark> <mark><b>Deploy 🚦</b> </mark> <mark><b>Git 🌳</b></mark> <mark><b>Integración de Código 🧩</b> </mark> <mark><b>Mapas 🗺</b> Mapbox</mark><br />
   <mark><b>Visualización de Datos 📊</b> D3, Plotly</mark>  <mark><b>DBs 💾</b> MySQL, SQL Server, MongoDB</mark>
   </pre>
