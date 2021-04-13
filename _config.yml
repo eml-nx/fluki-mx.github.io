@@ -51,9 +51,9 @@ about_content: | # this will include new lines to allow paragraphs
   en una startup que ofrece soluciones <mark>IoT</mark> e <mark>IA</mark>
 
   <pre>
-    <b>Intereses profesionales</b><br /><mark>Blockchain 🌐 (BTC,ETH)</mark> <mark>Algoritmos Genéticos 🌱</mark> <mark>Container 🍱</mark>
-    <b>Intereses personales</b><br /><mark>Aportar a mi país, mi alrededor 🇲🇽</mark> <mark>Experiencias Instropectivas 👁</mark> <mark>Cocina 🍴</mark> 
-    <b>Otros hobbies/vicios</b><br /><mark>Videojuegos 🎮</mark> <mark>Fútbol ⚽</mark> <mark>Música 🎹</mark> <mark>Fumar/Tomar 🍻 (Ocasionalmente)</mark>
+  <b>Intereses profesionales</b><br /> <mark>Blockchain 🌐 (BTC,ETH)</mark> <mark>Algoritmos Genéticos 🌱</mark> <mark>Container 🍱</mark> <br />
+  <b>Intereses personales</b><br /> <mark>Aportar a mi país, mi alrededor 🇲🇽</mark> <mark>Experiencias Instropectivas 👁</mark> <mark>Cocina 🍴</mark> <br />
+  <b>Otros hobbies/vicios</b><br /> <mark>Videojuegos 🎮</mark> <mark>Fútbol ⚽</mark> <mark>Música 🎹</mark> <mark>Fumar/Tomar 🍻 (Ocasionalmente)</mark>
   </pre>
 
 content:
