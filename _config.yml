@@ -58,9 +58,9 @@ about_content: | # this will include new lines to allow paragraphs
   </pre>
 
   <pre>
-  <b>Intereses profesionales</b><br /> <mark><b>Blockchain 🌐</b> (BTC,ETH)</mark> <mark><b>Algoritmos Genéticos</b> 🌱</mark> <mark><b>Arquitectura de Software 🌌</b></mark> <mark><b>Infraestructura 🧱</b><br /><br />
-  <b>Intereses personales</b><br /> <mark>Aportar a mi país, mi alrededor 🇲🇽</mark> <mark>Experiencias Instropectivas 👁</mark> <mark>Cocina 🍴</mark> <br /><br />
-  <b>Otros hobbies/vicios</b><br /> <mark>Videojuegos 🎮</mark> <mark>Fútbol ⚽</mark> <mark>Música 🎹</mark> <mark>Fumar/Tomar 🍻 (Ocasionalmente)</mark> <mark>Té/Café 🍵☕️</mark>
+  <b>Intereses profesionales</b> <br /> <mark><b>Blockchain 🌐</b> (BTC,ETH)</mark> <mark><b>Algoritmos Genéticos</b> 🌱</mark> <mark><b>Arquitectura de Software 🌌</b></mark> <mark><b>Infraestructura 🧱</b></mark> <br /><br />
+  <b>Intereses personales</b> <br /> <mark>Aportar a mi país, mi alrededor 🇲🇽</mark> <mark>Experiencias Instropectivas 👁</mark> <mark>Cocina 🍴</mark> <br /><br />
+  <b>Otros hobbies/vicios</b> <br /> <mark>Videojuegos 🎮</mark> <mark>Fútbol ⚽</mark> <mark>Música 🎹</mark> <mark>Fumar/Tomar 🍻 (Ocasionalmente)</mark> <mark>Té/Café 🍵☕️</mark>
   </pre>
 
 content:
